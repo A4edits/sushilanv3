@@ -1,14 +1,14 @@
 {
-  "name": "sushilanv3",
+  "name": "Abu_ser", 
   "version": "7.3.6",
-  "description": "sushilan is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
-  "main": "./sushilanv3/bot.js",
+  "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
+  "main": "./Abu_ser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A4edits/sushilanv3.git"
+    "url": "git+https://github.com/Afx-Abu/Abu_ser.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "aexd-ali",
-  "developer": "@aexd-ali ",
+  "author": "Afx-Abu",
+  "developer": "@Afx-Abu ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/A4edits/sushilanv3/issues"
+    "url": "https://github.com/Afx-Abu/Abu_ser/issues"
   },
-  "homepage": "https://github.com/A4edits/sushilanv3#readme",
+  "homepage": "https://github.com/Afx-Abu/Abu_ser#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
