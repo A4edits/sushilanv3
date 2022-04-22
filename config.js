@@ -18,7 +18,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v8.0.0',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.ABU_QR_SESSION === undefined ? '' : process.env.ABU_QR_SESSION,
+    SESSION: process.env.Aexd_QR_SESSION === undefined ? '' : process.env.Aexd_QR_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
@@ -32,7 +32,7 @@ module.exports = {
     OWNER: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
     ALL: process.env.ALL_CAPTION === undefined ? 'MADE BY aexd-sushilan' : process.env.ALL_CAPTION,
     MENTION: process.env.TAG_REPLY === undefined ? '919967413665@s.whatsapp.net' : process.env.TAG_REPLY,
-    ABU: process.env.NAME_STYLE === undefined ? 'sushilanv3: process.env.NAME_STYLE,
+    ABU: process.env.NAME_STYLE === undefined ? 'aexd-ali: process.env.NAME_STYLE,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
