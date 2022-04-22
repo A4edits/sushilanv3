@@ -48,6 +48,11 @@ Project created by <a href="https://github.com/A4edits">sushilanv3</a> to make i
 <div>
 <a href="https://replit.com/@A4edits/Aexd?v=1"><img align="center" src="https://fontmeme.com/permalink/220422/cb9564b0dfe49e572831c119aafda2e2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
+<div>
+<a href="https://heroku.com/deploy?template=https://github.com/A4edits/sushilanv3"><img align="center" src="https://fontmeme.com/permalink/220422/7a0e3188b011b7a8302421e3941d0128.png" alt="Scan QR" height="112" width="300" /></a>
+<br>
+
+
 
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
